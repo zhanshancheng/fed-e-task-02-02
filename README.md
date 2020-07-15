@@ -33,4 +33,4 @@
 
 ### 1.使用 Webpack 实现 Vue 项目打包任务
 
-> [./vue-app-base](https://github.com/zhanshancheng/fed-e-task-02-0/tree/master/vue-app-base)
+> [./vue-app-base](https://github.com/zhanshancheng/fed-e-task-02-02/tree/master/vue-app-base)
