@@ -5,14 +5,19 @@
 ### 1.Webpack 的构建流程主要有哪些环节？如果可以请尽可能详尽的描述 Webpack 打包的整个过程。
 
   1）**初始化阶段**
+
     `npm init` or `yarn init` 获取 `package.json` 文件
+
     `yarn add webpack webpack-cli --dev` 安装 `webpack` 需要的核心模块及cli模块
+
   2）**配置阶段**
+
     在项目的根目录下面新建 `webpack.config.js` 配置文件
 
 ### 2.Loader 和 Plugin 有哪些不同？请描述一下开发 Loader 和 Plugin 的思路。
 
   Loader 专注实现资源模块加载
+  
   Plugin 解决其他自动化工作
 
   开发 Loader 的思路：
